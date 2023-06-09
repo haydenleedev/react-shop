@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-shop/static/css/main.5c65af93.css",
-    "main.js": "/react-shop/static/js/main.6169d669.js",
+    "main.js": "/react-shop/static/js/main.1d96c4f3.js",
     "static/css/690.664a7dc4.chunk.css": "/react-shop/static/css/690.664a7dc4.chunk.css",
     "static/js/690.912d7111.chunk.js": "/react-shop/static/js/690.912d7111.chunk.js",
     "static/js/245.f3ef1b90.chunk.js": "/react-shop/static/js/245.f3ef1b90.chunk.js",
@@ -9,7 +9,7 @@
     "static/media/bg.png": "/react-shop/static/media/bg.616f307c169b743ff920.png",
     "index.html": "/react-shop/index.html",
     "main.5c65af93.css.map": "/react-shop/static/css/main.5c65af93.css.map",
-    "main.6169d669.js.map": "/react-shop/static/js/main.6169d669.js.map",
+    "main.1d96c4f3.js.map": "/react-shop/static/js/main.1d96c4f3.js.map",
     "690.664a7dc4.chunk.css.map": "/react-shop/static/css/690.664a7dc4.chunk.css.map",
     "690.912d7111.chunk.js.map": "/react-shop/static/js/690.912d7111.chunk.js.map",
     "245.f3ef1b90.chunk.js.map": "/react-shop/static/js/245.f3ef1b90.chunk.js.map",
@@ -17,6 +17,6 @@
   },
   "entrypoints": [
     "static/css/main.5c65af93.css",
-    "static/js/main.6169d669.js"
+    "static/js/main.1d96c4f3.js"
   ]
 }
