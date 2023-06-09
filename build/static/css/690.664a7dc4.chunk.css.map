@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/690.664a7dc4.chunk.css","mappings":"AAAA,yBACE,SACF,CACA,uBACE,SAAU,CACV,sBACF","sources":["components/tabContent.module.css"],"sourcesContent":[".start {\n  opacity: 0;\n}\n.end {\n  opacity: 1;\n  transition: opacity 0.5s;\n}\n"],"names":[],"sourceRoot":""}
