@@ -2,6 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
 import App from "./App";
+import { HashRouter } from "react-router-dom";
 import reportWebVitals from "./reportWebVitals";
 import { BrowserRouter } from "react-router-dom";
 import { Provider } from "react-redux";
@@ -12,7 +13,9 @@ root.render(
   <Provider store={store}>
     <React.StrictMode>
       <BrowserRouter>
-        <App />
+        <HashRouter basename="/">
+          <App />
+        </HashRouter>
       </BrowserRouter>
     </React.StrictMode>
   </Provider>
